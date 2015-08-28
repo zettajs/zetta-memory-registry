@@ -1,0 +1,15 @@
+{
+  "name": "zetta-memory-registry",
+  "version": "0.1.0",
+  "description": "Zetta in-memory device and peer registries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Magaluk <AdamMagaluk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "levelup": "^1.2.1",
+    "memdown": "^1.0.0"
+  }
+}
