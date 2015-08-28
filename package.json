@@ -11,5 +11,17 @@
   "dependencies": {
     "levelup": "^1.2.1",
     "memdown": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zettajs/zetta-memory-registry.git"
+  },
+  "keywords": [
+    "zetta"
+  ],
+  "bugs": {
+    "url": "https://github.com/zettajs/zetta-memory-registry/issues"
+  },
+  "homepage": "https://github.com/zettajs/zetta-memory-registry#readme"
 }
