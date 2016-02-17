@@ -1,6 +1,6 @@
 {
   "name": "zetta-memory-registry",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Zetta in-memory device and peer registries",
   "main": "index.js",
   "scripts": {
