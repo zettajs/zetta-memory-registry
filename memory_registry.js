@@ -5,7 +5,6 @@ var memdown = require('memdown');
 module.exports = function(zetta) {
   var Registry = zetta.DeviceRegistry;
   var MemRegistry = function() {
-    console.log('start reg')
     var db = levelup({ db: memdown });
     Registry.call(this, { db: db, collection: 'devices' });
   }
